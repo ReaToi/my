@@ -1,0 +1,12 @@
+**/migrations/00*.py
+**/migrations/*__pycache__
+!*/media/!*/photos/*/
+venv/
+*/__pycache__/
+__pycache__/
+db.sqlite3
+sqlite.db
+.env
+.vscode
+.idea
+media/
